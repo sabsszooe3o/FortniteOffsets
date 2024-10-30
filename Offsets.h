@@ -11,6 +11,6 @@ namespace Offsets {
     uintptr_t WeaponData = 0x520;
     uintptr_t ProjectileSpeed = 0x1CC4; // AND 0x1F30
     uintptr_t ProjectileGravity = 0x1F34;
-    uintptr_t PlayerName = 0xAA8;
+    uintptr_t PlayerName = 0xA98;
     uintptr_t HabaneroComponent = 0x9E8;
 }
